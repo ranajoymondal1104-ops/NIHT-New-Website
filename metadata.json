@@ -1,0 +1,6 @@
+{
+  "name": "NIHT Chatbot Agent",
+  "description": "Niya - An AI business assistant for NIHT Digital Marketing Institute, Kolkata, with live WordPress integration setup and leads manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
